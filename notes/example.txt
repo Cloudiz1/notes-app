@@ -1,0 +1,26 @@
+!h header
+!sh subheader
+!c content
+!sb single bullet
+
+!c undordered list
+!ul
+    !li unordered list element 1
+    !li unordered list element 2
+!el
+
+!c ordered list
+!ol
+    !li :)
+    !li :(
+!el
+
+!h image
+!img example.jpg
+
+!h LaTeX
+!c \(\large \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\)
+
+!c for more tags check the readme.md file
+
+!end
